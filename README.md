@@ -55,7 +55,7 @@ We declare a NetworkAdditionalDefinition for the OVN-K secondary network :
 
 This network could be declared (with same features) in multiple namespaces) or used from a specific namespace (here the default namespace).
 
-    * Using the same declaration in multiple namespaces, allows management of NetworkAdditionalDefinition only from cluster Admins, and enhance security of those overlays
+  * Using the same declaration in multiple namespaces, allows management of NetworkAdditionalDefinition only from cluster Admins, and enhance security of those overlays
 
 ### See that those NetworkAdditionalDefinition have been added in all 3 VMs : 
 
